@@ -18,3 +18,8 @@
     * *Links verwijderen die verwijzen naar de webpagina waar ze op staan.*
     * *Links in tekst verwijderen, of duidelijk maken dat er een link aan vastgekoppeld zit. En er ook voor zorgen dat de tekst waaraan de link verbonden zit kopieerbaar is.*
     * *Elementen die de website aanpassen door er enkel over te bewegen, verwijderen.*
+
+
+ **Groepsleden:**
+ * Masha Alen
+ * Selene Nijst
